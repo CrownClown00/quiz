@@ -4,7 +4,7 @@ body{
 }
 
 .container{ 
-    background-image: url("/images/comicbook.jpg");
+    background-image: url("../images/comicbook.jpg");
    text-align: center;
     max-height: 700px;
     
